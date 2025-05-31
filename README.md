@@ -5,4 +5,5 @@
 1. [input](./input.ipynb)
 2. [output](./output.ipynb)
 3. [cp I/O](./cp_input_output.py)
-4. [operator](./operators.ipynb)
+4. [variable](./variable.ipynb)
+5. [operator](./operators.ipynb)
